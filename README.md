@@ -1,6 +1,8 @@
 # Data-Reuse
 ## Community-curated guidlines to increase dataset reuse potential
 
+**The following guidelines, checks and protocol documenting from the side of the data producer can add significant value to datasets for data reuse: **
+
 ### 1. ACCESSING THE DATASET
 * Include and double-check all links to data repositories in submitted manuscript and proofread before publication
 * Avoid “Contact corresponding author for data” statements. 
